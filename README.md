@@ -16,4 +16,3 @@ Carpeta principal de ejercicios: `Ejercicio_usabilidad/`
 
 ## Notas
 - Los estilos CSS asociados están en la misma carpeta de cada ejercicio (`Ej1.css`, `Ej2.css`, ...).
-- Si quieres que genere una versión con miniaturas o un índice con vistas previas, dímelo y lo añado.
