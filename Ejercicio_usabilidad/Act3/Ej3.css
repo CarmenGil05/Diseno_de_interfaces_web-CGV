@@ -1,21 +1,24 @@
-body {
-      font-family: 'Times New Roman', Times, serif;
-      font-size: 16px;
-      max-width: 800px;
-      margin: 0 auto;
-      background-color: #ffffff;
-      color: #000000;
-    }
-    .image-container {
-      margin: 20px 0;
-    }
-    .image-container img {
-      width: 300px;
-      height: auto;
-    }
-    .background-image {
-      background-image: url('https://www.eniun.com/wp-content/uploads/Tutorial-Usabilidad-1-900x450.png');
-      background-size: cover;
-      height: 300px;
-      padding: 20px;
-    }
+.image-container img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.background-image {
+  background-image: url('https://www.eniun.com/wp-content/uploads/Tutorial-Usabilidad-1-900x450.png');
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.overlay-text {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: #000000;
+  font-weight: bold;
+}
