@@ -1,24 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  color: #000000;
+  line-height: 1.6;
+}
+
+.image-container {
+  margin: 20px 0;
+  text-align: center;
+}
+
 .image-container img {
   max-width: 100%;
   height: auto;
-  display: block;
+  border-radius: 8px;
 }
 
 .background-image {
+  position: relative;
   background-image: url('https://www.eniun.com/wp-content/uploads/Tutorial-Usabilidad-1-900x450.png');
   background-size: cover;
   background-position: center;
   height: 300px;
-  position: relative;
-  margin-bottom: 20px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.overlay-text {
-  background-color: rgba(255, 255, 255, 0.8);
-  padding: 20px;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  color: #000000;
-  font-weight: bold;
+/* Fondo semitransparente para mejorar contraste del texto */
+.background-image p {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #ffffff;
+  padding: 15px 20px;
+  border-radius: 8px;
+  max-width: 80%;
+  text-align: center;
 }
