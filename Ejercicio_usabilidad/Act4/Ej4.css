@@ -32,7 +32,7 @@ p {
   display: inline-block;
   margin-right: 10px;
   padding: 10px 15px;
-  background-color: #4CAF50;
+  background-color: #3acfd4;
   color: #ffffff;
   text-decoration: none;
   border-radius: 4px;
@@ -40,7 +40,7 @@ p {
 }
 
 .navigation a:hover {
-  background-color: #45a049;
+  background-color: #458ea0;
 }
 
 table {
