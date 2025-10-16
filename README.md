@@ -6,7 +6,7 @@ Este repositorio contiene los ejercicios de la asignatura "Diseño de interfaces
 Carpeta principal de ejercicios: `Ejercicio_usabilidad/`
 
 ## Ejercicios
-- Act1 — Ejercicio 1: `Ejercicio_usabilidad/Act1/Ej1.html`
+- [Act1 — Ejercicio 1:] (Ejercicio_usabilidad/Act1/Ej1.html)
 - Act2 — Ejercicio 2: `Ejercicio_usabilidad/Act2/Ej2.html`
 - Act3 — Ejercicio 3: `Ejercicio_usabilidad/Act3/Ej3.html`
 - Act4 — Ejercicio 4: `Ejercicio_usabilidad/Act4/Ej4.html`
