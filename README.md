@@ -10,6 +10,7 @@ Carpeta principal de ejercicios: `Ejercicio_usabilidad/`
 - [Act2 — Ejercicio 2:](Ejercicio_usabilidad/Act2/Ej2.html)
 - [Act3 — Ejercicio 3:](Ejercicio_usabilidad/Act3/Ej3.html)
 - [Act4 — Ejercicio 4:](Ejercicio_usabilidad/Act4/Ej4.html)
+- [Act1 bis — Ejercicio checklist:](Checklist_Usabilidad-CGV.xlsx)
 
 ## Correcciones
 - [Notas y correcciones:](Ejercicio_usabilidad/Correciones_Ejercicios.md)
